@@ -1,0 +1,12 @@
+[
+    {
+        "id": 101,
+        "title": "Data Scientist",
+        "description": "We are looking for a data scientist with strong Python and machine learning skills. Experience with scikit-learn and natural language processing is a plus. The role involves building predictive models and analyzing large datasets."
+    },
+    {
+        "id": 102,
+        "title": "Backend Developer",
+        "description": "Seeking a backend developer proficient in Java or C++. Responsibilities include designing and implementing server-side logic and managing databases. Cloud computing experience is highly desirable."
+    }
+]

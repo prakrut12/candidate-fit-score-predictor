@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "resume": "Experienced in Python, scikit-learn, and data analysis. Built machine learning models for predictive analytics. Strong understanding of natural language processing."
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "resume": "Software engineer with expertise in Java and C++. Interested in backend development and database management. Some experience with cloud computing."
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "resume": "Data scientist skilled in R, Python, and SQL. Developed recommendation systems and performed statistical analysis. Familiar with deep learning frameworks like TensorFlow."
+    }
+]
